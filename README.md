@@ -68,17 +68,17 @@ Interface and Controls
 
 | Key          | Action                                                  |
 | ------------ | ------------------------------------------------------- |
-| `Left Click` | Select towers, interact with the shop, and place towers |
-| `1`–`9`      | Select a tower type                                     |
-| `Space`      | Start the next wave                                     |
-| `P`          | Pause or resume                                         |
-| `Z`          | Activate Air Strike                                     |
-| `X`          | Activate Freeze All                                     |
-| `C`          | Activate Double Damage                                  |
-| `V`          | Activate Nuke                                           |
-| `T`          | Activate Time Slow                                      |
-| `R`          | Restart after game over                                 |
-| `Q`          | Quit the game                                           |
+| Left Click | Select towers, interact with the shop, and place towers |
+| 1-9      | Select a tower type                                     |
+| Space      | Start the next wave                                     |
+| P          | Pause or resume                                         |
+| Z          | Activate Air Strike                                     |
+| X          | Activate Freeze All                                     |
+| C          | Activate Double Damage                                  |
+| V          | Activate Nuke                                           |
+| T          | Activate Time Slow                                      |
+| R          | Restart after game over                                 |
+| Q          | Quit the game                                           |
 
 Power-ups must be purchased before they can be used. Tower types also unlock progressively as you advance through the waves.
 
